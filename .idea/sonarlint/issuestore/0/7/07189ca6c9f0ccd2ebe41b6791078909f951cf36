@@ -1,0 +1,6 @@
+
+@squid:S2160"+Override the "equals" method in this class.(Å‰ÛŒ
+'squid:S2176"Rename this class.(¡şÎ³
+=squid:S1185"(Remove this method to simply inherit it.(­©å
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü‰ ·øÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Å‰ÛŒ

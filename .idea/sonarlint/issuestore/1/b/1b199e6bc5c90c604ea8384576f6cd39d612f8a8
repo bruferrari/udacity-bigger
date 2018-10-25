@@ -1,0 +1,5 @@
+
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8÷¦¶Îé,
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(í£™ˆÿÿÿÿÿ8÷¦¶Îé,
+"squid:ClassVariableVisibilityCheck"XMake jokeReceived a static final constant or non-public and provide accessors if needed.(ÙÁŽñýÿÿÿÿ8÷¦¶Îé,
+Ssquid:S1444"2Make this "public static jokeReceived" field final(ÙÁŽñýÿÿÿÿ8Ð»¹Îé,

@@ -1,4 +1,5 @@
 
-”"squid:ClassVariableVisibilityCheck"\Make resourceCallback a static final constant or non-public and provide accessors if needed.(ï—Ï÷úÿÿÿÿ8Îû¤Îé,
-Š"squid:ClassVariableVisibilityCheck"WMake isIdlingNow a static final constant or non-public and provide accessors if needed.(—¶‡8«‘¦Îé,
-Msquid:S1444"1Make this "public static isIdlingNow" field final(—¶‡8«‘¦Îé,
+–"squid:ClassVariableVisibilityCheck
+"\Make resourceCallback a static final constant or non-public and provide accessors if needed.(ï—Ï÷úÿÿÿÿ8Îû¤Îé,
+Œ"squid:ClassVariableVisibilityCheck	"WMake isIdlingNow a static final constant or non-public and provide accessors if needed.(—¶‡8«‘¦Îé,
+Osquid:S1444	"1Make this "public static isIdlingNow" field final(—¶‡8«‘¦Îé,

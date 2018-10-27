@@ -1,3 +1,4 @@
 
-Rsquid:S2696"6Make the enclosing method "static" or remove this set.(½œß‘8‰±ºÎé,
-psquid:UselessImportCheck"BRemove this unused import 'javax.security.auth.callback.Callback'.(‚¨á£ûÿÿÿÿ8‰±ºÎé,
+rsquid:UselessImportCheck"BRemove this unused import 'javax.security.auth.callback.Callback'.(‚¨á£ûÿÿÿÿ8‰±ºÎé,
+Tsquid:S2696'"6Make the enclosing method "static" or remove this set.(½œß‘8‰±ºÎé,
+Tsquid:S26966"6Make the enclosing method "static" or remove this set.(®Šƒ8ôàìê,

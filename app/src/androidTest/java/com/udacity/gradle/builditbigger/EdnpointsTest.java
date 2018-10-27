@@ -15,6 +15,8 @@ import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.action.ViewActions.click;
 import static android.support.test.espresso.matcher.ViewMatchers.withId;
 
+import static junit.framework.Assert.assertNotNull;
+
 @RunWith(AndroidJUnit4.class)
 public class EdnpointsTest {
 
@@ -23,7 +25,7 @@ public class EdnpointsTest {
 
 
     private IdlingResource resource;
-    private String joke = "";
+    private String joke;
 
     @Before
     public void registerIdlingResource() {
@@ -36,7 +38,8 @@ public class EdnpointsTest {
         onView(withId(R.id.tell_joke_button)).perform(click());
         joke = activityTestRule.getActivity().jokeReceived;
 
-        assert joke.length() > 0;
+        //if the string is not null we have a joke
+        assertNotNull(joke);
     }
 
     @After
